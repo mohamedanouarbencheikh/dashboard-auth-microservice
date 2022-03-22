@@ -23,6 +23,9 @@ The project contain :
   It's a microservice that retrieves dashboard data from a Mongodb database, it uses spring web as a dependency and tomcat as an application server.
   
   The frontend part witch contain a dashboard and users management of the project is developed using angular, and it's in: 
+  
+  https://github.com/mohamedanouarbencheikh/angular-dashboard-auth
+  
   The cross origin part at the backend level is configured at the gateway microservice.
   
 ## Getting Started
@@ -78,10 +81,15 @@ The project is created using spring https://start.spring.io/.
 ### Executing program
 
 The microservices must launch in the following order :
+
   1- Config microservice 
+  
   2- Eureka microservice 
+  
   3- Gateway microservice
+  
   4- Login microservice 
+  
   5- Dashboard microservice   
 
 
