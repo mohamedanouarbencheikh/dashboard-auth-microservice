@@ -27,9 +27,6 @@ public class WebSecurityConfig{
     JwtSecurityContextRepository jwtSecurityContextRepository;
 
     @Autowired
-    DashboardServiceAccess fenetreServiceAccess;
-
-    @Autowired
     DashboardServiceAccess dashboardServiceAccess;
 
     @Bean
