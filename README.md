@@ -1,8 +1,8 @@
-![Product Gif](https://github.com/mohamedanouarbencheikh/dashboard-auth-microservice/blob/master/dashboard-auth.gif)
-
 # Project Title
 
 Spring microservices
+
+![Product Gif](https://github.com/mohamedanouarbencheikh/dashboard-auth-microservice/blob/master/dashboard-auth.gif)
 
 ## Description
 
